@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Philologicum</string>
+    <string name="navbar_news">Neuigkeiten</string>
+    <string name="navbar_lmu_spot">LMU Spot</string>
+    <string name="navbar_platzfinder">Platzfinder</string>
+    <string name="nvabar_philologicum">Philologicum</string>
+    <string name="navbar_einstellungen">Einstellungen</string>
+    <string name="low_storage_error">OCR kann nicht geladen werden, da zu wenig Speicherplatz vorhanden ist.</string>
+    <string name="no_camera_permission">Bitte gewähren Sie der App den Zugriff auf die Kamera, da Sie sonst LMUSpot nicht nutzen können! Die App wird sich jetzt schließen...</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_details">LMUSpot</string>
+    <string name="title_home">Platzhalter</string>
+    <string name="init_success">Initialisierung erfolgreich</string>
+    <string name="init_fail">Initialisierung nicht erfolgreich</string>
+</resources>

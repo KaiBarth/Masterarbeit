@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navbar_news"
+        android:icon="@drawable/ic_news"
+        android:title="@string/navbar_news" />
+
+    <item
+        android:id="@+id/navbar_lmu_spot"
+        android:icon="@drawable/ic_lmu_spot"
+        android:title="@string/navbar_lmu_spot" />
+
+    <item
+        android:id="@+id/navbar_platzfinder"
+        android:icon="@drawable/ic_platzfinder"
+        android:title="@string/navbar_platzfinder" />
+    <item
+        android:id="@+id/navbar_philologicum"
+        android:icon="@drawable/ic_library"
+        android:title="@string/nvabar_philologicum" />
+    <item
+        android:id="@+id/navbar_einstellungen"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/navbar_einstellungen" />
+
+</menu>
