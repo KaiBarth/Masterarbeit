@@ -36,12 +36,18 @@ $(document).ready(function () {
         id_type = $('#selected_id').val();
         if (id_type.match(/^location_id$/) || id_type.match(/^content_id$/)) {
             greenBorder('#selected_id');
+            $('#label_id').show();
+            $('#small_id').show();
+            $('#number_id').show();
             flag_id_type = true;
         } else if (id_type.match(/^all_id$/)) {
             flag_id_type = true;
             flag_id_number = true;
             greenBorder('#selected_id');
-            greenBorder('#number_id');
+            $('#label_id').hide();
+            $('#small_id').hide();
+            $('#number_id').hide();
+            //greenBorder('#number_id');
             id_number = 99999;
         } else {
             redBorder('#selected_id');
