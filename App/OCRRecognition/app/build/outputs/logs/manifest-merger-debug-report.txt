@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b9950b52bb20130c88a69b2601f2812a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9671cfa16794ef4bfa96048e1f9f8ae9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3dc1f344c09bfc6df3abbc35c295881f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\1b0d3976a1cc88b0ea80126c1b6e66da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\caec374f155ad88ccf5716c91f0ddf2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\70f400e1a64bb11157c154ac5acfd0d8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a110f3053bc57238aa1df9a3fd58e390\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\831178c167e078581a3975e6d3e36f14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\32aef5f31f5f1dd22df6ced3f7e352e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4025d9e57b88d5ccba2d4baa8b863018\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4508ab06c8b966781da76a41e89c961b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\502a22cf39d44dc9a5a3f101cade3ab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ec28015e2a697e9c35cde5c0c160411\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\948c99c33421b5ce23506e6453be592a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b91905d00c6c48e8a1013ed39bb12ab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82ae3bc00fcb52f372903caae32e4af9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\28cde46180ee063252ae18ddde0370dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fba2ec8ef124b2713fdfeb28b2a51e87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\302d1b92d8416ad02e96a28705063811\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f0f1892478db2814ec10ab7550d67eef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5aa35b500b31d68c68adc57c23c34762\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a38d4a7f458e39f77c294bf674465ef2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b9950b52bb20130c88a69b2601f2812a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b9950b52bb20130c88a69b2601f2812a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3dc1f344c09bfc6df3abbc35c295881f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3dc1f344c09bfc6df3abbc35c295881f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\1b0d3976a1cc88b0ea80126c1b6e66da\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\1b0d3976a1cc88b0ea80126c1b6e66da\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\70f400e1a64bb11157c154ac5acfd0d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\70f400e1a64bb11157c154ac5acfd0d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a110f3053bc57238aa1df9a3fd58e390\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a110f3053bc57238aa1df9a3fd58e390\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b9950b52bb20130c88a69b2601f2812a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\b9950b52bb20130c88a69b2601f2812a\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9671cfa16794ef4bfa96048e1f9f8ae9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9671cfa16794ef4bfa96048e1f9f8ae9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3dc1f344c09bfc6df3abbc35c295881f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3dc1f344c09bfc6df3abbc35c295881f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\1b0d3976a1cc88b0ea80126c1b6e66da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\1b0d3976a1cc88b0ea80126c1b6e66da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\caec374f155ad88ccf5716c91f0ddf2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\caec374f155ad88ccf5716c91f0ddf2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\70f400e1a64bb11157c154ac5acfd0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\70f400e1a64bb11157c154ac5acfd0d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a110f3053bc57238aa1df9a3fd58e390\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a110f3053bc57238aa1df9a3fd58e390\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\981657c5f8003d455ae70f5ba918cff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\831178c167e078581a3975e6d3e36f14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\831178c167e078581a3975e6d3e36f14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\32aef5f31f5f1dd22df6ced3f7e352e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\32aef5f31f5f1dd22df6ced3f7e352e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4025d9e57b88d5ccba2d4baa8b863018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4025d9e57b88d5ccba2d4baa8b863018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4508ab06c8b966781da76a41e89c961b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4508ab06c8b966781da76a41e89c961b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\502a22cf39d44dc9a5a3f101cade3ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\502a22cf39d44dc9a5a3f101cade3ab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ec28015e2a697e9c35cde5c0c160411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ec28015e2a697e9c35cde5c0c160411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\948c99c33421b5ce23506e6453be592a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\948c99c33421b5ce23506e6453be592a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b91905d00c6c48e8a1013ed39bb12ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b91905d00c6c48e8a1013ed39bb12ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82ae3bc00fcb52f372903caae32e4af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\82ae3bc00fcb52f372903caae32e4af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\28cde46180ee063252ae18ddde0370dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\28cde46180ee063252ae18ddde0370dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fba2ec8ef124b2713fdfeb28b2a51e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fba2ec8ef124b2713fdfeb28b2a51e87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\302d1b92d8416ad02e96a28705063811\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\302d1b92d8416ad02e96a28705063811\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f0f1892478db2814ec10ab7550d67eef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f0f1892478db2814ec10ab7550d67eef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5aa35b500b31d68c68adc57c23c34762\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5aa35b500b31d68c68adc57c23c34762\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a38d4a7f458e39f77c294bf674465ef2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a38d4a7f458e39f77c294bf674465ef2\AndroidManifest.xml:20:5-44
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\BibInfo\Masterarbeit\Reinschrift\Anhang\App\OCRRecognition\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Kai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8f0c363df30a6a0f31ea133c9c7b9b34\AndroidManifest.xml:24:13-79

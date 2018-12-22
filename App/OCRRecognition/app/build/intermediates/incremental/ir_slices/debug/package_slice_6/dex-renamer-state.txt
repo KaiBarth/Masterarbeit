@@ -1,0 +1,4 @@
+#Sat Sep 22 12:01:05 CEST 2018
+base.0=D\:\\Dropbox\\BibInfo\\Masterarbeit\\Test\\OCR\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

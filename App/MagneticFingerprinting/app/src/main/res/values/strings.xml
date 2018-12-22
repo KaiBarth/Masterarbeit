@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MagneticFingerprint</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnStartStop">Start</string>
+    <string name="txtOutMagnitude">Output Magnitude</string>
+    <string name="txtOutX">Output X</string>
+    <string name="txtOutY">Output Y</string>
+    <string name="txtOutZ">Output Z</string>
+    <string name="inputLocation">For which location do you want to collect a fingerpringt?</string>
+    <string name="logSwitch">Logfile </string>
+</resources>

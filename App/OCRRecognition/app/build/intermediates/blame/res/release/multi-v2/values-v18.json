@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Dropbox\\BibInfo\\Masterarbeit\\Test\\OCR\\App\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kai\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\32aef5f31f5f1dd22df6ced3f7e352e1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
