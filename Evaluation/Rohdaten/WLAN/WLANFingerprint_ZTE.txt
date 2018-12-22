@@ -1,0 +1,108 @@
+Fingerprint 1
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:54:55
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -62
+SSID:  | RSSI: -62
+SSID: WLAN-405361 | RSSI: -82
+SSID: DIRECT-veM2020 Series | RSSI: -73
+SSID: DeathStar_2.4GHz | RSSI: -81
+SSID: FRITZ!Box 3272 | RSSI: -90
+
+Fingerprint 2
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:05
+SSID: FritzBox YK | RSSI: -71
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -61
+SSID:  | RSSI: -61
+SSID: WLAN-405361 | RSSI: -81
+SSID: DIRECT-veM2020 Series | RSSI: -72
+SSID: DeathStar_2.4GHz | RSSI: -79
+
+Fingerprint 3
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:13
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -61
+SSID:  | RSSI: -61
+SSID: WLAN-405361 | RSSI: -78
+SSID: DIRECT-veM2020 Series | RSSI: -72
+SSID: DeathStar_2.4GHz | RSSI: -80
+
+Fingerprint 4
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:22
+SSID: FritzBox YK | RSSI: -72
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -61
+SSID:  | RSSI: -61
+SSID: WLAN-405361 | RSSI: -76
+SSID: DIRECT-veM2020 Series | RSSI: -80
+SSID: DeathStar_2.4GHz | RSSI: -79
+
+Fingerprint 5
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:30
+SSID: FritzBox YK | RSSI: -72
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -65
+SSID:  | RSSI: -69
+SSID: WLAN-405361 | RSSI: -76
+SSID: DIRECT-veM2020 Series | RSSI: -72
+SSID: DeathStar_2.4GHz | RSSI: -81
+SSID: o2-WLAN23 | RSSI: -88
+SSID: FRITZ!Box 6360 Cable | RSSI: -89
+SSID: FRITZ!Box 7560 GK | RSSI: -91
+
+Fingerprint 6
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:37
+SSID: FritzBox YK | RSSI: -73
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -74
+SSID:  | RSSI: -73
+SSID: WLAN-405361 | RSSI: -76
+SSID: DIRECT-veM2020 Series | RSSI: -78
+SSID: DeathStar_2.4GHz | RSSI: -81
+SSID: o2-WLAN23 | RSSI: -88
+SSID: FRITZ!Box 6360 Cable | RSSI: -89
+SSID: FRITZ!Box 7560 GK | RSSI: -91
+
+Fingerprint 7
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:55:56
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -67
+SSID:  | RSSI: -68
+SSID: WLAN-405361 | RSSI: -78
+SSID: DIRECT-veM2020 Series | RSSI: -74
+SSID: DeathStar_2.4GHz | RSSI: -77
+SSID: FRITZ!Box 6360 Cable | RSSI: -89
+
+Fingerprint 8
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:56:05
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -69
+SSID:  | RSSI: -68
+SSID: WLAN-405361 | RSSI: -77
+SSID: DIRECT-veM2020 Series | RSSI: -72
+SSID: DeathStar_2.4GHz | RSSI: -79
+
+Fingerprint 9
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:56:13
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -65
+SSID:  | RSSI: -66
+SSID: WLAN-405361 | RSSI: -76
+SSID: DIRECT-veM2020 Series | RSSI: -71
+SSID: DeathStar_2.4GHz | RSSI: -80
+
+Fingerprint 10
+Model: ZTE Blade L5 Plus
+Time: 2018-09-29 13:56:22
+SSID: FritzBox YK | RSSI: -75
+SSID: DIRECT-q3-FireTV_2562 | RSSI: -68
+SSID:  | RSSI: -69
+SSID: WLAN-405361 | RSSI: -76
+SSID: DIRECT-veM2020 Series | RSSI: -73
+SSID: DeathStar_2.4GHz | RSSI: -82
+

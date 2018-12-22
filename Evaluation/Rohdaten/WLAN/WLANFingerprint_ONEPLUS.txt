@@ -1,0 +1,105 @@
+Fingerprint 1
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:54:57
+SSID: FritzBox YK | RSSI: -66
+SSID: DeathStar_2.4GHz | RSSI: -72
+SSID: WLAN-405361 | RSSI: -75
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: FRITZ!Box 7560 GK | RSSI: -83
+SSID: FRITZ!Box 7490 | RSSI: -86
+
+Fingerprint 2
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:06
+SSID: FritzBox YK | RSSI: -64
+SSID: DeathStar_2.4GHz | RSSI: -73
+SSID: WLAN-405361 | RSSI: -77
+SSID: DIRECT-veM2020 Series | RSSI: -79
+SSID: Vodafone Hotspot | RSSI: -87
+
+Fingerprint 3
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:15
+SSID: FritzBox YK | RSSI: -67
+SSID: DeathStar_2.4GHz | RSSI: -72
+SSID: WLAN-405361 | RSSI: -75
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: FRITZ!Box 7560 GK | RSSI: -84
+
+Fingerprint 4
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:24
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 5
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:26
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 6
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:33
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 7
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:55:52
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 8
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:56:01
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 9
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:56:09
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+
+Fingerprint 10
+Model: ONEPLUS A6003
+Time: 2018-09-29 13:56:18
+SSID: FritzBox YK | RSSI: -63
+SSID: DeathStar_2.4GHz | RSSI: -71
+SSID: DIRECT-veM2020 Series | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: o2-WLAN23 | RSSI: -81
+SSID: FRITZ!Box 6360 Cable | RSSI: -86
+SSID: stillbox | RSSI: -86
+

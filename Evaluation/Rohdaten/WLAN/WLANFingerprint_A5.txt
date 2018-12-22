@@ -1,0 +1,72 @@
+Fingerprint 1
+Model: SM-A520F
+Time: 2018-09-29 13:54:55
+SSID: DIRECT-veM2020 Series | RSSI: -78
+SSID: FritzBox YK | RSSI: -79
+SSID: DeathStar_2.4GHz | RSSI: -80
+
+Fingerprint 2
+Model: SM-A520F
+Time: 2018-09-29 13:55:05
+SSID: DIRECT-veM2020 Series | RSSI: -80
+SSID: FritzBox YK | RSSI: -81
+
+Fingerprint 3
+Model: SM-A520F
+Time: 2018-09-29 13:55:13
+SSID: FritzBox YK | RSSI: -80
+SSID: DIRECT-veM2020 Series | RSSI: -82
+SSID: WLAN-405361 | RSSI: -82
+
+Fingerprint 4
+Model: SM-A520F
+Time: 2018-09-29 13:55:21
+SSID: FritzBox YK | RSSI: -77
+SSID: WLAN-405361 | RSSI: -78
+SSID: DIRECT-veM2020 Series | RSSI: -80
+SSID: FRITZ!Box 7490 | RSSI: -89
+
+Fingerprint 5
+Model: SM-A520F
+Time: 2018-09-29 13:55:30
+SSID: FritzBox YK | RSSI: -74
+SSID: DIRECT-veM2020 Series | RSSI: -80
+
+Fingerprint 6
+Model: SM-A520F
+Time: 2018-09-29 13:55:48
+SSID:  | RSSI: -67
+SSID: FritzBox YK | RSSI: -78
+SSID: DIRECT-veM2020 Series | RSSI: -78
+SSID: WLAN-405361 | RSSI: -78
+
+Fingerprint 7
+Model: SM-A520F
+Time: 2018-09-29 13:55:56
+SSID: WLAN-405361 | RSSI: -78
+SSID: FritzBox YK | RSSI: -79
+SSID: DIRECT-veM2020 Series | RSSI: -80
+SSID: DeathStar_2.4GHz | RSSI: -85
+
+Fingerprint 8
+Model: SM-A520F
+Time: 2018-09-29 13:56:05
+SSID:  | RSSI: -64
+SSID: FritzBox YK | RSSI: -74
+SSID: DIRECT-veM2020 Series | RSSI: -81
+
+Fingerprint 9
+Model: SM-A520F
+Time: 2018-09-29 13:56:13
+SSID:  | RSSI: -64
+SSID: FritzBox YK | RSSI: -78
+SSID: WLAN-405361 | RSSI: -80
+SSID: DIRECT-veM2020 Series | RSSI: -81
+
+Fingerprint 10
+Model: SM-A520F
+Time: 2018-09-29 13:56:22
+SSID: FritzBox YK | RSSI: -78
+SSID: WLAN-405361 | RSSI: -78
+SSID: DIRECT-veM2020 Series | RSSI: -79
+

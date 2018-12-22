@@ -1,0 +1,77 @@
+Fingerprint 1
+Model: SM-A310F
+Time: 2018-09-29 13:54:50
+SSID: FritzBox YK | RSSI: -71
+SSID: DeathStar_2.4GHz | RSSI: -91
+SSID: DIRECT-veM2020 Series | RSSI: -82
+SSID: WLAN-405361 | RSSI: -83
+SSID:  | RSSI: -67
+SSID: FRITZ!Box 3272 | RSSI: -86
+
+Fingerprint 2
+Model: SM-A310F
+Time: 2018-09-29 13:55:00
+SSID: FritzBox YK | RSSI: -73
+SSID: DIRECT-veM2020 Series | RSSI: -84
+SSID: WLAN-405361 | RSSI: -80
+SSID:  | RSSI: -66
+SSID: FRITZ!Box 3272 | RSSI: -87
+
+Fingerprint 3
+Model: SM-A310F
+Time: 2018-09-29 13:55:08
+SSID: FritzBox YK | RSSI: -72
+SSID: DIRECT-veM2020 Series | RSSI: -87
+SSID: WLAN-405361 | RSSI: -77
+
+Fingerprint 4
+Model: SM-A310F
+Time: 2018-09-29 13:55:17
+SSID: FritzBox YK | RSSI: -70
+SSID: DIRECT-veM2020 Series | RSSI: -82
+SSID: WLAN-405361 | RSSI: -79
+
+Fingerprint 5
+Model: SM-A310F
+Time: 2018-09-29 13:55:25
+SSID: FritzBox YK | RSSI: -70
+SSID: WLAN-405361 | RSSI: -78
+SSID: DeathStar_2.4GHz | RSSI: -86
+
+Fingerprint 6
+Model: SM-A310F
+Time: 2018-09-29 13:55:32
+SSID: FritzBox YK | RSSI: -72
+SSID: WLAN-405361 | RSSI: -77
+SSID: DIRECT-veM2020 Series | RSSI: -84
+
+Fingerprint 7
+Model: SM-A310F
+Time: 2018-09-29 13:55:51
+SSID: FritzBox YK | RSSI: -70
+SSID: WLAN-405361 | RSSI: -77
+SSID: DIRECT-veM2020 Series | RSSI: -83
+SSID:  | RSSI: -66
+
+Fingerprint 8
+Model: SM-A310F
+Time: 2018-09-29 13:56:00
+SSID: FritzBox YK | RSSI: -70
+SSID: WLAN-405361 | RSSI: -79
+SSID: DIRECT-veM2020 Series | RSSI: -83
+SSID: FRITZ!Box 3272 | RSSI: -86
+SSID: Not_A_Virus | RSSI: -95
+
+Fingerprint 9
+Model: SM-A310F
+Time: 2018-09-29 13:56:08
+SSID: FritzBox YK | RSSI: -71
+SSID: WLAN-405361 | RSSI: -76
+SSID: DeathStar_2.4GHz | RSSI: -85
+
+Fingerprint 10
+Model: SM-A310F
+Time: 2018-09-29 13:56:17
+SSID: FritzBox YK | RSSI: -71
+SSID: WLAN-405361 | RSSI: -80
+
