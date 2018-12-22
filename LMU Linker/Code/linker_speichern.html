@@ -1,0 +1,98 @@
+<!--
+/**
+ * ~~~linker_speichern.html~~~
+ * @author Kai Barth
+ * @version 1.2 - 19.12.2018
+ * 
+ * HTML-Seite zum Speichern einer Verknuepfung zwischen LocationID und ContentID
+ * in der Datenbank.
+ */
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>LMU Linker</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="jquery/linker_speichern.js" type="text/javascript"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <body>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <a class="navbar-brand" href="linker.html">
+                <img src="icon/lmu_linker.png" width="30" height="30" class="d-inline-block align-top" alt="LMU Linker Logo">
+                LMU Linker
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse navHeaderCollapse" id="navbarSupportedContent" >
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Linker
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="linker_anzeigen.html">Anzeigen</a>
+                            <a class="dropdown-item" href="linker_loeschen.html">L&ouml;schen</a>
+                            <a class="dropdown-item" href="linker_speichern.html">Verkn&uuml;pfen</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Keywords
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="keywords_anzeigen.html">Anzeigen</a>
+                            <a class="dropdown-item" href="keywords_loeschen.html">L&ouml;schen</a>
+                            <a class="dropdown-item" href="keywords_speichern.html">Hinzuf&uuml;gen</a>
+                            <a class="dropdown-item" href="keywords_version.html">Versionierung</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="api.html">API</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="kontakt.html">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!--Jumbotron - einheitlicher Kopf-->
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">LMU Linker</h1>
+                <p class="lead">Middleware zum Verlinken von Standorten mit Inhalten f&uuml;r das Philologicum</p>
+            </div>
+        </div>
+        <!--Content der Seite-->
+        <div class="container-fluid">
+            <h1>Standort mit Inhalt verkn&uuml;pfen</h1>
+            <p class="lead">
+                Nutze das Formular, um einen Standort (LocationID) mit Inhalt (ContentID) zu verkn&uuml;pfen
+            </p>
+            <div class="form-group">
+                <form id="linker" method="POST">
+                    <label>LocationID</label>
+                    <input class="form-control" type="number" name="location_id" id="location_id" min = "1" max="99999">
+                    <small class="form-text text-muted">Welche ID hat der zu verkn&uuml;pfende Standort?</small>
+                    <label>ContentID</label>
+                    <input class="form-control" type="number" name="content_id" id="content_id" min = "1" max="99999">
+                    <small class="form-text text-muted">Welche ID hat der zu verkn&uuml;pfende Inhalt?</small>
+                    <br>
+                    <button class="btn btn-primary" id="submitButton" type="submit">Verlinken</button>
+                    <button class="btn btn-secondary" form="linker" id="resetButton" type="reset">Zur&uuml;cksetzen</button>
+                </form>
+                <hr>
+                <!--Div-Container fuer die Ausgabe von Hinweisen vom Script-->
+                <div id="hint" class="alert alert-danger" role="alert" style="visibility: hidden"></div>
+                <!--Div-Container fuer die Ausgabe des Ergebnisses des Scriptes-->
+                <div id='result' style="visibility: hidden"></div>
+            </div>
+        </div>
+    </body>
+</html>
