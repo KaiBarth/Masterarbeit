@@ -12,4 +12,7 @@
     <string name="title_home">Platzhalter</string>
     <string name="init_success">Initialisierung erfolgreich</string>
     <string name="init_fail">Initialisierung nicht erfolgreich</string>
+    <string name="settings_header">Einstellungen</string>
+    <string name="philologicum_header">Philologicum</string>
+    <string name="news_header">Neuigkeiten</string>
 </resources>
